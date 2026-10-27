@@ -12,7 +12,7 @@ The project follows the **CRISP-DM** methodology, moving from raw data explorati
 
 ---
 
-##  Dataset Architecture and sources
+##  Dataset architecture and sources
 To achieve a holistic view of the shelter ecosystem, I integrated and pre-processed two distinct data sources, creating a unified dataset for analysis:
 
 1. **Austin Animal Center (AAC) outcomes**: 
